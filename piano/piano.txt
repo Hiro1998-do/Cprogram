@@ -1,0 +1,1 @@
+C:\cgenogo>gcc piano.c -o piano -fexec-charset=CP932
